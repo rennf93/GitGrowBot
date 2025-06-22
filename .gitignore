@@ -26,3 +26,5 @@ Thumbs.db
 
 # Drafts and other files
 .github/workflows/run_bot.yml
+
+.venv/
