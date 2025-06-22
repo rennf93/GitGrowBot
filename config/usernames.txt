@@ -65,7 +65,6 @@ NealST
 mrclksr
 gpbaculio
 shahradelahi
-oguzhan-yilmaz
 juahadinata
 ChoiWheatley
 jonhealy1
@@ -195,7 +194,6 @@ Pfrommer1982
 gamzenurdagdelen
 mohamad-ashrafi
 p-delfani
-AbbasDehganzadeh
 izzalDev
 pushkardangi
 omidfarrokhi
@@ -310,7 +308,6 @@ Barsaan
 jjd214
 Willie169
 mohdzafeer
-hafsalodhi2023
 RomanK2311
 lexzer42
 Kei-K23
@@ -363,7 +360,6 @@ karbytessupporter
 igoldshm
 CristianVellio
 geisivanvitena
-Iankulani
 Madaniproblem
 GustavoAnjos2005
 tumblecat44
@@ -386,7 +382,6 @@ hamedp-71
 herokwon
 geraldmoreno993
 jackisma
-cornel-cp
 guguss-31
 gianbdev
 JVGREENN2
@@ -1238,7 +1233,6 @@ phillipemoreira
 desko27
 terry-fei
 TopGrd
-bentatum
 dellink
 pascalhuynh
 developer-hosny
@@ -2687,7 +2681,6 @@ devcodenext
 dontehightower
 AmineBenaddiGitHub
 tubfuzzy
-hafidzdev17
 Mahfuz60
 Gutsover
 yashbujji
@@ -2824,7 +2817,6 @@ kedaroo
 rahulkotha18
 oliverfrost1
 mehrdadKianiAnbohi
-Susmithap3
 threeveisgood
 WantenMN
 SubhajitC
@@ -3833,7 +3825,6 @@ moolya-nishmita2421
 Yanisouakli
 pytsx
 MatteoLucerni
-nextvision629
 Emuke12
 MrDavidLover
 Godswill7
@@ -29799,7 +29790,6 @@ bxhzzx
 farhanarrafi
 dada-engineer
 WarpedPixel
-anayarojo
 eugeneegbe
 jduartea
 alwaysbeshels
@@ -48896,7 +48886,6 @@ kjagatiy
 Anisujjaman-Md
 Ananiaslitz
 Naruchiwa06
-heavenyoung1
 nadaakm
 miamisunset
 J2eff
@@ -74506,7 +74495,6 @@ janfdev
 kawodyaarachchige
 Eotoz
 iloveyuri73
-EduardoDosSantosFerreira
 Nima-Tavana
 howdoor
 emilliy98
@@ -121640,7 +121628,6 @@ bwdwyer
 paul-cheung
 igorceridorio
 Suddhasatwa
-sarkarshuvojit
 ItsPhenom
 extracttransformload
 yashoon
