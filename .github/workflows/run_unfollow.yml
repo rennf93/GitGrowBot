@@ -9,7 +9,7 @@ name: GitGrowBot Unfollower (Scheduled)
 on:
   schedule:
     # - cron: '5 */10 * * *'   # every 10 hours at XX:05 UTC
-  - cron: '45 */12 * * *' # every 12 hours at XX:45
+  - cron: '45 */23 * * *' # every 23 hours at XX:45
   workflow_dispatch: {}
 
 jobs:
